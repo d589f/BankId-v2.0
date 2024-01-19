@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+#Zalupa
+.idea/
+
+# Исключение временных файлов и папок
+out/
+target/
+
+# Исключение файлов и папок проекта IntelliJ IDEA
+.idea/
+
+# Исключение файлов, созданных операционной системой
+.DS_Store
+Thumbs.db
+
+# Исключение файлов конфигурации
+*.iml
+*.ipr
+*.iws
